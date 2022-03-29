@@ -1,0 +1,4 @@
+node2vec==0.4.4
+networkx==2.5
+matplotlib==3.3.2
+numpy==1.21.2
